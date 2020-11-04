@@ -1,0 +1,50 @@
+N:\My Work\Restaurant POS System\Restaurant POS System\Restaurant POS System\bin\Debug\Restaurant POS System.exe.config
+N:\My Work\Restaurant POS System\Restaurant POS System\Restaurant POS System\bin\Debug\Restaurant POS System.exe
+N:\My Work\Restaurant POS System\Restaurant POS System\Restaurant POS System\bin\Debug\Restaurant POS System.pdb
+N:\My Work\Restaurant POS System\Restaurant POS System\Restaurant POS System\bin\Debug\Restaurant POS System.xml
+N:\My Work\Restaurant POS System\Restaurant POS System\Restaurant POS System\obj\Debug\Restaurant POS System.vbprojAssemblyReference.cache
+N:\My Work\Restaurant POS System\Restaurant POS System\Restaurant POS System\obj\Debug\Restaurant_POS_System.Resources.resources
+N:\My Work\Restaurant POS System\Restaurant POS System\Restaurant POS System\obj\Debug\Restaurant POS System.vbproj.GenerateResource.cache
+N:\My Work\Restaurant POS System\Restaurant POS System\Restaurant POS System\obj\Debug\Restaurant POS System.vbproj.CoreCompileInputs.cache
+N:\My Work\Restaurant POS System\Restaurant POS System\Restaurant POS System\obj\Debug\Restaurant POS System.exe
+N:\My Work\Restaurant POS System\Restaurant POS System\Restaurant POS System\obj\Debug\Restaurant POS System.xml
+N:\My Work\Restaurant POS System\Restaurant POS System\Restaurant POS System\obj\Debug\Restaurant POS System.pdb
+N:\My Work\Restaurant POS System\Restaurant POS System\Restaurant POS System\obj\Debug\Restaurant_POS_System.MainMenu.resources
+C:\Users\Emadh\Desktop\Restaurant POS System\Restaurant POS System\Restaurant POS System\bin\Debug\Restaurant POS System.exe.config
+C:\Users\Emadh\Desktop\Restaurant POS System\Restaurant POS System\Restaurant POS System\bin\Debug\Restaurant POS System.exe
+C:\Users\Emadh\Desktop\Restaurant POS System\Restaurant POS System\Restaurant POS System\bin\Debug\Restaurant POS System.pdb
+C:\Users\Emadh\Desktop\Restaurant POS System\Restaurant POS System\Restaurant POS System\bin\Debug\Restaurant POS System.xml
+C:\Users\Emadh\Desktop\Restaurant POS System\Restaurant POS System\Restaurant POS System\obj\Debug\Restaurant POS System.vbprojAssemblyReference.cache
+C:\Users\Emadh\Desktop\Restaurant POS System\Restaurant POS System\Restaurant POS System\obj\Debug\Restaurant_POS_System.MainMenu.resources
+C:\Users\Emadh\Desktop\Restaurant POS System\Restaurant POS System\Restaurant POS System\obj\Debug\Restaurant_POS_System.Resources.resources
+C:\Users\Emadh\Desktop\Restaurant POS System\Restaurant POS System\Restaurant POS System\obj\Debug\Restaurant POS System.vbproj.GenerateResource.cache
+C:\Users\Emadh\Desktop\Restaurant POS System\Restaurant POS System\Restaurant POS System\obj\Debug\Restaurant POS System.vbproj.CoreCompileInputs.cache
+C:\Users\Emadh\Desktop\Restaurant POS System\Restaurant POS System\Restaurant POS System\obj\Debug\Restaurant POS System.exe
+C:\Users\Emadh\Desktop\Restaurant POS System\Restaurant POS System\Restaurant POS System\obj\Debug\Restaurant POS System.xml
+C:\Users\Emadh\Desktop\Restaurant POS System\Restaurant POS System\Restaurant POS System\obj\Debug\Restaurant POS System.pdb
+\\fileservb\home$\G54001\Desktop\Restaurant POS System\Restaurant POS System\Restaurant POS System\bin\Debug\Restaurant POS System.exe.config
+\\fileservb\home$\G54001\Desktop\Restaurant POS System\Restaurant POS System\Restaurant POS System\bin\Debug\Restaurant POS System.exe
+\\fileservb\home$\G54001\Desktop\Restaurant POS System\Restaurant POS System\Restaurant POS System\bin\Debug\Restaurant POS System.pdb
+\\fileservb\home$\G54001\Desktop\Restaurant POS System\Restaurant POS System\Restaurant POS System\bin\Debug\Restaurant POS System.xml
+\\fileservb\home$\G54001\Desktop\Restaurant POS System\Restaurant POS System\Restaurant POS System\obj\Debug\Restaurant POS System.vbprojAssemblyReference.cache
+\\fileservb\home$\G54001\Desktop\Restaurant POS System\Restaurant POS System\Restaurant POS System\obj\Debug\Restaurant_POS_System.MainMenu.resources
+\\fileservb\home$\G54001\Desktop\Restaurant POS System\Restaurant POS System\Restaurant POS System\obj\Debug\Restaurant_POS_System.Resources.resources
+\\fileservb\home$\G54001\Desktop\Restaurant POS System\Restaurant POS System\Restaurant POS System\obj\Debug\Restaurant POS System.vbproj.GenerateResource.cache
+\\fileservb\home$\G54001\Desktop\Restaurant POS System\Restaurant POS System\Restaurant POS System\obj\Debug\Restaurant POS System.vbproj.CoreCompileInputs.cache
+\\fileservb\home$\G54001\Desktop\Restaurant POS System\Restaurant POS System\Restaurant POS System\obj\Debug\Restaurant POS System.exe
+\\fileservb\home$\G54001\Desktop\Restaurant POS System\Restaurant POS System\Restaurant POS System\obj\Debug\Restaurant POS System.xml
+\\fileservb\home$\G54001\Desktop\Restaurant POS System\Restaurant POS System\Restaurant POS System\obj\Debug\Restaurant POS System.pdb
+C:\Users\Emadh\Desktop\Projects\A2 Project\Development\Prototypes\Restaurant POS System\Restaurant POS System\bin\Debug\Restaurant POS System.exe.config
+C:\Users\Emadh\Desktop\Projects\A2 Project\Development\Prototypes\Restaurant POS System\Restaurant POS System\bin\Debug\Restaurant POS System.exe
+C:\Users\Emadh\Desktop\Projects\A2 Project\Development\Prototypes\Restaurant POS System\Restaurant POS System\bin\Debug\Restaurant POS System.pdb
+C:\Users\Emadh\Desktop\Projects\A2 Project\Development\Prototypes\Restaurant POS System\Restaurant POS System\bin\Debug\Restaurant POS System.xml
+C:\Users\Emadh\Desktop\Projects\A2 Project\Development\Prototypes\Restaurant POS System\Restaurant POS System\obj\Debug\Restaurant POS System.vbprojAssemblyReference.cache
+C:\Users\Emadh\Desktop\Projects\A2 Project\Development\Prototypes\Restaurant POS System\Restaurant POS System\obj\Debug\Restaurant_POS_System.MainMenu.resources
+C:\Users\Emadh\Desktop\Projects\A2 Project\Development\Prototypes\Restaurant POS System\Restaurant POS System\obj\Debug\Restaurant_POS_System.Resources.resources
+C:\Users\Emadh\Desktop\Projects\A2 Project\Development\Prototypes\Restaurant POS System\Restaurant POS System\obj\Debug\Restaurant POS System.vbproj.GenerateResource.cache
+C:\Users\Emadh\Desktop\Projects\A2 Project\Development\Prototypes\Restaurant POS System\Restaurant POS System\obj\Debug\Restaurant POS System.vbproj.CoreCompileInputs.cache
+C:\Users\Emadh\Desktop\Projects\A2 Project\Development\Prototypes\Restaurant POS System\Restaurant POS System\obj\Debug\Restaurant POS System.exe
+C:\Users\Emadh\Desktop\Projects\A2 Project\Development\Prototypes\Restaurant POS System\Restaurant POS System\obj\Debug\Restaurant POS System.xml
+C:\Users\Emadh\Desktop\Projects\A2 Project\Development\Prototypes\Restaurant POS System\Restaurant POS System\obj\Debug\Restaurant POS System.pdb
+N:\My Work\Restaurant POS System\Restaurant POS System\Restaurant POS System\bin\Debug\Restaurant Product Database Connect.mdb
+\\fileservb\home$\G54001\Desktop\Restaurant POS System\Restaurant POS System\Restaurant POS System\bin\Debug\Restaurant Product Database Connect.mdb

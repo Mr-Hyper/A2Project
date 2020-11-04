@@ -1,0 +1,371 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Restaurant POS System
+</name>
+</assembly>
+<members>
+<member name="T:Restaurant_POS_System.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Restaurant_POS_System.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Restaurant_POS_System.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSet.AccompanimentsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSet.All_Time_FavouritesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSet.Balti_DishesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSet.Biryani_DishesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSet.English_DishesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSet.Fish_DishesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSet.House_SpecialitiesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSet.NanDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSet.RiceDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSet.Set_MealsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSet.Special_Mild_DishesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSet.StartersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSet.Tandoori_DishesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSet.Vegetable_Main_DishesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSet.Vegetable_Side_DishesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSet.AccompanimentsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSet.All_Time_FavouritesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSet.Balti_DishesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSet.Biryani_DishesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSet.English_DishesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSet.Fish_DishesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSet.House_SpecialitiesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSet.NanRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSet.RiceRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSet.Set_MealsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSet.Special_Mild_DishesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSet.StartersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSet.Tandoori_DishesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSet.Vegetable_Main_DishesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSet.Vegetable_Side_DishesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSet.AccompanimentsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSet.All_Time_FavouritesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSet.Balti_DishesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSet.Biryani_DishesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSet.English_DishesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSet.Fish_DishesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSet.House_SpecialitiesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSet.NanRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSet.RiceRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSet.Set_MealsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSet.Special_Mild_DishesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSet.StartersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSet.Tandoori_DishesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSet.Vegetable_Main_DishesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSet.Vegetable_Side_DishesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSetTableAdapters.AccompanimentsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSetTableAdapters.All_Time_FavouritesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSetTableAdapters.Balti_DishesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSetTableAdapters.Biryani_DishesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSetTableAdapters.English_DishesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSetTableAdapters.Fish_DishesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSetTableAdapters.House_SpecialitiesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSetTableAdapters.NanTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSetTableAdapters.RiceTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSetTableAdapters.Set_MealsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSetTableAdapters.Special_Mild_DishesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSetTableAdapters.StartersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSetTableAdapters.Tandoori_DishesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSetTableAdapters.Vegetable_Main_DishesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSetTableAdapters.Vegetable_Side_DishesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSetTableAdapters.TableAdapterManager.UpdateAll(Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Restaurant_POS_System.Restaurant_Product_Database_ConnectDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
