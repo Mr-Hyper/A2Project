@@ -1,0 +1,9 @@
+\\fileservb\home$\G54001\Desktop\Restaurant EPOS Mockup\Restaurant EPOS Mockup\obj\Debug\Restaurant EPOS Mockup.vbprojAssemblyReference.cache
+\\fileservb\home$\G54001\Desktop\Restaurant EPOS Mockup\Restaurant EPOS Mockup\obj\Debug\Restaurant_EPOS_Mockup.Add_Customer_Order.resources
+\\fileservb\home$\G54001\Desktop\Restaurant EPOS Mockup\Restaurant EPOS Mockup\obj\Debug\Restaurant_EPOS_Mockup.Customer_Orders_Menu.resources
+\\fileservb\home$\G54001\Desktop\Restaurant EPOS Mockup\Restaurant EPOS Mockup\obj\Debug\Restaurant_EPOS_Mockup.Form1.resources
+\\fileservb\home$\G54001\Desktop\Restaurant EPOS Mockup\Restaurant EPOS Mockup\obj\Debug\Restaurant_EPOS_Mockup.Remove_Customer_Order.resources
+\\fileservb\home$\G54001\Desktop\Restaurant EPOS Mockup\Restaurant EPOS Mockup\obj\Debug\Restaurant_EPOS_Mockup.Sales_Accounting.resources
+\\fileservb\home$\G54001\Desktop\Restaurant EPOS Mockup\Restaurant EPOS Mockup\obj\Debug\Restaurant_EPOS_Mockup.Select_Quantity.resources
+\\fileservb\home$\G54001\Desktop\Restaurant EPOS Mockup\Restaurant EPOS Mockup\obj\Debug\Restaurant_EPOS_Mockup.Settings.resources
+\\fileservb\home$\G54001\Desktop\Restaurant EPOS Mockup\Restaurant EPOS Mockup\obj\Debug\Restaurant EPOS Mockup.vbproj.GenerateResource.cache

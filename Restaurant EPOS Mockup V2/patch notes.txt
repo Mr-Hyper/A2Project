@@ -1,0 +1,20 @@
+*Added:*
+- Pure mockup that mocks core functionality of proposed solution
+- Ability to add customer order:
+   - Select quantity of items to add to customer order
+   - Displays only starters (final will have every dish to select)
+   - Customer order being currently created displayed on side of window
+   - Ability to remove certain items from the order when creating the orders
+   - Submitting order saves the order as a .txt file in a certain directory (final          will have a choos your own directory to save to)
+   - Submitting order will show a message pop up saying that the order has          been sent to kitchen (really hasn't but it just says it for future iteration)
+
+*Work In Progress*
+- Editing customer orders after they have been created.
+- Sending Orders to kitchen display system
+- Removing Customer order after they have been created
+- Real time status updates on customer orders
+- Sales Accounting to track transactions and sales earnings for current             working day and past working days.
+- Kitchen display system
+
+*Removed*
+- nothing as of yet
